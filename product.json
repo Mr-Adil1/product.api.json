@@ -3,6 +3,9 @@
         [{
                 "pname": "Henly Brown Check Tshirt For Men",
                 "pimg": "https://static-01.daraz.pk/p/39492f6866371e5030660d54c2afc4f8.jpg",
+                "sm_imgs": [
+                    "https://static-01.daraz.pk/p/c4f0364fcee149c2bca167b1a57d4c7f.jpg"
+                ],
                 "Pprice": 599,
                 "pdescount": 849,
                 "id": "cloths"
@@ -10,6 +13,9 @@
             {
                 "pname": "Convection Rotisserie Oven with Kebab Grill WF-4500RKC",
                 "pimg": "https://static-01.daraz.pk/p/336792cfc388d6b00a5d7406f1d9ea7d.jpg",
+                "sm_imgs": [
+                    "https://static-01.daraz.pk/p/336792cfc388d6b00a5d7406f1d9ea7d.jpg"
+                ],
                 "Pprice": 35200,
                 "pdescount": 549,
                 "id": "elect"
@@ -17,6 +23,11 @@
             {
                 "pname": "MARKHOR Hoodie Black Cotton Printed Hoody ISI Logo Hooded",
                 "pimg": "https://static-01.daraz.pk/p/a599b9041a18257f276597911dbc259c.jpg",
+                "sm_imgs": [
+                    "https://static-01.daraz.pk/p/a599b9041a18257f276597911dbc259c.jpg",
+                    "https://static-01.daraz.pk/p/a599b9041a18257f276597911dbc259c.jpg",
+                    "https://static-01.daraz.pk/p/a599b9041a18257f276597911dbc259c.jpg"
+                ],
                 "Pprice": 1099,
                 "pdescount": 2200,
                 "id": "cloths"
@@ -24,6 +35,12 @@
             {
                 "pname": "Hair Dryer||Dryer Machine for Hair||Dryer Hair Straigthener for men & Girls",
                 "pimg": "https://static-01.daraz.pk/p/4ddc6c38ee7ffdf741072d98b694d406.jpg",
+                "sm_imgs": [
+                    "https://static-01.daraz.pk/p/4ddc6c38ee7ffdf741072d98b694d406.jpg",
+                    "https://static-01.daraz.pk/p/4ddc6c38ee7ffdf741072d98b694d406.jpg",
+                    "https://static-01.daraz.pk/p/4ddc6c38ee7ffdf741072d98b694d406.jpg",
+                    "https://static-01.daraz.pk/p/4ddc6c38ee7ffdf741072d98b694d406.jpg"
+                ],
                 "Pprice": 1999,
                 "pdescount": 599,
                 "id": "elect"
@@ -32,6 +49,10 @@
         [{
                 "pname": "Electronic Fast Hair Straightener Portable Mini Hair Flat Iron",
                 "pimg": "https://static-01.daraz.pk/p/99b58ef9fbf94d5cb9e93fb90a0cb282.jpg",
+                "sm_imgs": [
+                    "https://static-01.daraz.pk/p/99b58ef9fbf94d5cb9e93fb90a0cb282.jpg",
+                    "https://static-01.daraz.pk/p/99b58ef9fbf94d5cb9e93fb90a0cb282.jpg"
+                ],
                 "Pprice": 399,
                 "pdescount": 549,
                 "id": "elect"
@@ -39,6 +60,11 @@
             {
                 "pname": "New Men's Cotton Jeans Pant In All Colors",
                 "pimg": "https://static-01.daraz.pk/p/39efe912d77738c6fdf0376f21cb1ffa.jpg",
+                "sm_imgs": [
+                    "https://static-01.daraz.pk/p/39efe912d77738c6fdf0376f21cb1ffa.jpg",
+                    "https://static-01.daraz.pk/p/39efe912d77738c6fdf0376f21cb1ffa.jpg",
+                    "https://static-01.daraz.pk/p/39efe912d77738c6fdf0376f21cb1ffa.jpg"
+                ],
                 "Pprice": 1390,
                 "pdescount": 2400,
                 "id": "cloths"
@@ -46,6 +72,14 @@
             {
                 "pname": "USB Desk Electric Fan-3 Wind Speeds and Adjustable Height-Hand held and",
                 "pimg": "https://static-01.daraz.pk/p/d878ee06ef61b132b8aaf0fe38d4c65d.jpg",
+                "sm_imgs": [
+                    "https://static-01.daraz.pk/p/d878ee06ef61b132b8aaf0fe38d4c65d.jpg",
+                    "https://static-01.daraz.pk/p/d878ee06ef61b132b8aaf0fe38d4c65d.jpg",
+                    "https://static-01.daraz.pk/p/d878ee06ef61b132b8aaf0fe38d4c65d.jpg",
+                    "https://static-01.daraz.pk/p/d878ee06ef61b132b8aaf0fe38d4c65d.jpg",
+                    "https://static-01.daraz.pk/p/d878ee06ef61b132b8aaf0fe38d4c65d.jpg",
+                    "https://static-01.daraz.pk/p/d878ee06ef61b132b8aaf0fe38d4c65d.jpg"
+                ],
                 "Pprice": 1099,
                 "pdescount": 3999,
                 "id": "elect"
@@ -53,6 +87,12 @@
             {
                 "pname": "Ezifit™ High Quality Winter Trousers For Kids Spider Man design",
                 "pimg": "https://static-01.daraz.pk/p/ed7a1bd658761f9a4e34748f2387f135.jpg",
+                "sm_imgs": [
+                    "https://static-01.daraz.pk/p/ed7a1bd658761f9a4e34748f2387f135.jpg",
+                    "https://static-01.daraz.pk/p/ed7a1bd658761f9a4e34748f2387f135.jpg",
+                    "https://static-01.daraz.pk/p/ed7a1bd658761f9a4e34748f2387f135.jpg",
+                    "https://static-01.daraz.pk/p/ed7a1bd658761f9a4e34748f2387f135.jpg"
+                ],
                 "Pprice": 699,
                 "pdescount": 499,
                 "id": "cloths"
